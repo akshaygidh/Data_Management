@@ -12,7 +12,7 @@ A review score is given to each row of entry in dataset for each Airbnb rentals.
 
 # Business Questions
 Which Neighbourhood Airbnb needs to invest more based on average price of areas??
-![].[Images/Q1.jpg]
+![Q1].(Images/Q1.jpg)
 Which Airbnb host has the highest listings so as to provide incentive schemes to help business growth??
 
 Which Neighbourhoods should we promote in summer 2019 catering to large groups??
